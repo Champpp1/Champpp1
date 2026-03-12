@@ -1,16 +1,18 @@
-## Hi there 👋
+## - p̶r̶o̶c̶r̶a̶s̶t̶i̶n̶a̶t̶i̶n̶g̶  + 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴
 
-<!--
-**Champpp1/Champpp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+import life
+from mistakes import learning
 
-Here are some ideas to get you started:
+procrastinating = True
+knowledge = 0
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+while alive:
+    if procrastinating:
+        studying()
+        knowledge += learning
+
+if knowledge == float("inf"):
+    life = "win"
+else:
+    life = "keep learning"
